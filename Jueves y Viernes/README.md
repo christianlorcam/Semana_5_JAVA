@@ -1,4 +1,4 @@
-# Ejercicios Sumativos: Colecciones, Métodos y Streams en Java
+# Ejercicios Sumativos Semana 5: Colecciones, Métodos y Streams en Java
 
 Este repositorio contiene la solución a 5 ejercicios prácticos diseñados para comprender y aplicar las principales estructuras de datos en Java (Colecciones), la modularización de código a través de funciones (métodos) y el procesamiento de datos utilizando la API de Streams.
 
