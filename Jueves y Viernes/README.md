@@ -39,14 +39,9 @@ Para ejecutar cualquiera de estos ejercicios, asegúrate de tener instalado el *
 
 ## Estructura de Carpetas
 
-El espacio de trabajo contiene dos carpetas por defecto:
+El espacio de trabajo contiene:
 
 - `src`: La carpeta donde debes guardar tus archivos de código fuente (Aquí es donde viven tus archivos `Ejercicio1.java`, `GestionFrutas.java`, etc.).
-- `lib`: La carpeta para mantener y organizar las dependencias o librerías externas.
-
-Por defecto, los archivos ya compilados por el sistema se generarán de forma automática en la carpeta `bin`.
-
-> Si deseas personalizar esta estructura de carpetas, puedes abrir el archivo `.vscode/settings.json` y actualizar la configuración correspondiente allí.
 
 ## Gestión de Dependencias
 
