@@ -41,7 +41,7 @@ Para ejecutar cualquiera de estos ejercicios, asegúrate de tener instalado el *
 
 El espacio de trabajo contiene:
 
-- `src`: La carpeta donde debes guardar tus archivos de código fuente (Aquí es donde viven tus archivos `Ejercicio1.java`, `GestionFrutas.java`, etc.).
+- `src`: La carpeta donde debes guardar los archivos de código fuente (Aquí es donde viven los archivos `Ejercicio1.java`, `GestionFrutas.java`, etc.).
 
 ## Gestión de Dependencias
 
